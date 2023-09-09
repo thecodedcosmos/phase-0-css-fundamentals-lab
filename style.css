@@ -3,3 +3,33 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center;
+}
+img {
+  text-align: center
+}
+a {
+  padding: 10px 10px;
+  background-color: grey;
+}
+figcaption {
+  font-size: smaller;
+  text-align: center;
+}
+p#featured-property {
+  width: 800px;
+  text-align: center;
+}
+div#details {
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
+a.link {
+  color: blue
+}
+a:visited {
+  color: purple;
+}
